@@ -1,0 +1,18 @@
+html {
+    font-family: system-ui;
+    font-size:2em;
+}
+body {
+    text-align: center;
+    align-content: center;
+}
+span {
+    /* border: 2px solid springgreen ; */
+    display: inline;
+}
+
+div {
+    /* border: 2px solid royalblue; */
+    display: inline;
+   
+}
